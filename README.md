@@ -1,1 +1,1 @@
-# htmlandstorymap
+htmlpage: ![Alt text](image.png)
